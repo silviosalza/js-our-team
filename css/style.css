@@ -1,0 +1,30 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.card-title{
+    font-weight: 700;
+}
+.card{background-color: white;}
+
+.card0{
+    background-color:rgb(67, 43, 16, 0.5) ;
+    color: white;
+}
+.card1{
+    background-color: rgb(44, 59, 36, 0.5);
+    color: white;
+}
+.card2 {background-color: rgb(229, 247, 249);}
+.card3{
+    background-color: rgb(15, 111, 143);
+    color: white;
+}
+.card4{
+    background-color: #DEDAAD;   
+}
+.card5{
+    background-color: #920026;
+    color: white;
+}
+

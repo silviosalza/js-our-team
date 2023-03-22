@@ -63,9 +63,9 @@ for (let i = 0; i < team.length; i++){
 
     const curMember = team[i];
     cards += `
-    <div class="col">
-        <div class="card">
-            <div class="card-body">
+    <div class="col-4">
+        <div class="card card${i} mb-5">
+            <div class="card-body d-flex flex-column justify-content-center">
                 <img src="${curMember.foto}" alt="">
                 <h5 class="card-title">${curMember.nome}</h5>
                 <h6 class="card-subtitle">${curMember.ruolo}</h6>
